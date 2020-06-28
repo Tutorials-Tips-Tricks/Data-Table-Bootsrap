@@ -1,0 +1,49 @@
+
+h1 {
+    color: whitesmoke;
+    text-shadow: 0 0 2px black;
+    text-align: center;
+}
+
+div.dataTables_wrapper div.dataTables_filter label {
+    margin-bottom: 6px;
+}
+
+.btn-primary {
+    background-color: gray;
+    border-color: gray
+}
+
+#example_wrapper {
+    margin-left: 70px;
+}
+
+.pagination>li>a{
+color: black;
+}
+
+.pagination>.active> a {
+    background-color: black;
+    border-color: gray;
+}
+.pagination>.active> a {
+    background-color: grey;
+    border-color: gray;
+}
+
+.pagination>.active>a, 
+.pagination>.active>a:focus, 
+.pagination>.active>a:hover, 
+.pagination>.active>span, 
+.pagination>.active>span:focus, 
+.pagination>.active>span:hover {
+    z-index: 3;
+    color: #fff;
+    cursor: a;
+    background-color: gray;
+     border-color: gray;
+   
+}
+
+
+
